@@ -1,4 +1,4 @@
-# Hirst Sport Painting Generator
+# Hirst Spot Painting Generator
 
 ## Description
 
